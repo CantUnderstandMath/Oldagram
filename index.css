@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    width: 200px;
+}
+
+#vpfp {
+    width: 40px;
+    border-radius: 100%;
+    margin: 10px;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+}
+
+.user-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.location {
+    font-size: 15px;
+    font-weight: normal;
+    margin: 0;
+}
